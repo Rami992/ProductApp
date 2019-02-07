@@ -1,0 +1,15 @@
+ ul li a{
+    text-decoration: none;
+    color:#fff;
+    cursor: pointer;
+}
+ ul li a:hover{
+    text-decoration: none;
+    color:#fff;
+    cursor: pointer;
+
+}
+.my-card{
+    height: 40rem;
+}
+
